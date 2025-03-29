@@ -19,6 +19,12 @@ This project presents a logistic regression-based predictive model for forecasti
 - Visualization: Employs various plotting functions to visualize relationships between variables and the impact of each on the likelihood of fire occurrence.
 - Model Evaluation: Involves splitting the dataset into training and testing sets to validate the accuracy of the predictive model. Misclassification error rates are calculated to assess model performance.
 
+### 📊 Dashboard
+![image alt](https://github.com/Peheni01/Forest-Fire-Prediction-Using-Logistic-Regression/blob/badc529afaaba6ab2a4355c90b7ec285e39fa51a/1.%20Dashboard.png)
+![image alt](https://github.com/Peheni01/Forest-Fire-Prediction-Using-Logistic-Regression/blob/badc529afaaba6ab2a4355c90b7ec285e39fa51a/2.%20Dashboard.png)
+![image alt](https://github.com/Peheni01/Forest-Fire-Prediction-Using-Logistic-Regression/blob/badc529afaaba6ab2a4355c90b7ec285e39fa51a/3.%20Dashboard.png)
+![image alt](https://github.com/Peheni01/Forest-Fire-Prediction-Using-Logistic-Regression/blob/badc529afaaba6ab2a4355c90b7ec285e39fa51a/4.%20Dashboard.png)
+
 ### Results Analysis and Discussion
 The logistic regression model provides a predictive framework for assessing the risk of forest fires based on environmental conditions. By training the model on 80% of the data and testing on the remaining 20%, the project achieves a high accuracy level, demonstrating the model's effectiveness in predicting fire occurrences. The analysis highlights the significant impact of factors such as temperature, humidity, and wind speed on fire dynamics.
 
